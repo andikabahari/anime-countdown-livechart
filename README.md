@@ -5,6 +5,7 @@ anime-countdown-livechart
 ## Requirements
 
 Python 3
+
 beautifulsoup4 module
 
 ## Usage
