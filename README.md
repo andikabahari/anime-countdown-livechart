@@ -31,3 +31,7 @@ py main.py https://www.livechart.me/winter-2020/all
 ```
 
 The result will be stored into the repository's folder as JSON file.
+
+## Screenshot
+
+![ScreenShot](https://raw.githubusercontent.com/andikabahari/anime-countdown-livechart/master/Screenshot_2020-01-15.png)
