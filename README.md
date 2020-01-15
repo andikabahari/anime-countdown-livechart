@@ -6,6 +6,8 @@ anime-countdown-livechart
 
 Python 3
 
+requests module
+
 beautifulsoup4 module
 
 ## Usage
